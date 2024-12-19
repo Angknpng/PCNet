@@ -7,7 +7,7 @@ Thank you for your attention.
 
 ## Method
 
-
+[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/method.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/method.png)
 
 ## Dataset
 
