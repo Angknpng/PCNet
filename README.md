@@ -22,7 +22,7 @@ Thank you for your attention. If you think our work is helpful, please cite:
 
 ## Dataset
 
-[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset2.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset2.png)
+[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset.png)
 
 
 ## Acknowledgement
