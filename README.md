@@ -4,3 +4,11 @@ Code and dataset repository for our paper entilted "Alignment-Free RGB-T Salient
 Thank you for your attention.
 
 ***The code and dataset will be organized as soon as possible based on review comments.***
+
+## Method
+
+[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/framework.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/framework.png)
+
+## Dataset
+
+[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset.png)
