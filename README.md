@@ -5,6 +5,19 @@ Thank you for your attention.
 
 ***The code and dataset will be organized as soon as possible based on review comments.***
 
+## Citing our work
+
+If you think our work is helpful, please cite
+
+```
+@inproceedings{wang2025alignment,
+  title={Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network},
+  author={Wang, Kunpeng and Chen, Keke and Li, Chenglong and Tu, Zhengzheng and Luo, Bin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  year={2025}
+}
+```
 
 ## Method
 
