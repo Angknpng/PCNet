@@ -3,7 +3,22 @@ Code and dataset repository for our paper entilted "Alignment-Free RGB-T Salient
 
 ***The code and dataset will be organized as soon as possible based on review comments.***
 
-Thank you for your attention. If you think our work is helpful, please cite:
+Thank you for your attention. 
+
+
+## Dataset
+
+[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset.png)
+
+The proposed dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1LCEvXR3gKvIZOdMgZbSRVg?pwd=fete) fetch code: fete]
+
+## Method
+
+[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/method.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/method.png)
+
+
+## Citation
+If you think our work is helpful, please cite:
 
 ```
 @inproceedings{wang2025alignment,
@@ -14,15 +29,6 @@ Thank you for your attention. If you think our work is helpful, please cite:
   year={2025}
 }
 ```
-
-## Method
-
-[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/method.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/method.png)
-
-
-## Dataset
-
-[![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset.png)
 
 
 ## Acknowledgement
