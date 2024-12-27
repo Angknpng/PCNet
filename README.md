@@ -1,6 +1,8 @@
 # PCNet
 Code and dataset repository for our paper entilted "Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network" accepted at AAAI 2025.
 
+arXiv version: https://arxiv.org/pdf/2412.14576.
+
 ***The code and dataset will be organized as soon as possible based on review comments.***
 
 Thank you for your attention. 
