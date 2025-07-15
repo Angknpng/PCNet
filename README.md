@@ -12,7 +12,7 @@ Thank you for your attention.
 
 [![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset.png)
 
-<!-- <h2> The proposed UVT20K dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1LCEvXR3gKvIZOdMgZbSRVg?pwd=fete) fetch code: fete] </h2>
+<!-- The proposed UVT20K dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1LCEvXR3gKvIZOdMgZbSRVg?pwd=fete) fetch code: fete] -->
 
 The compressed UVT20K dataset containing the annotations of saliency maps, edges, scribbles, and challenge attributes can be found here. [[baidu pan](https://pan.baidu.com/s/1CBLCup7VzU2-O2U8Aqw8oQ?pwd=v2rc) fetch code: v2rc]
 
