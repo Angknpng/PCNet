@@ -12,7 +12,9 @@ Thank you for your attention.
 
 [![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset.png)
 
-The proposed dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1LCEvXR3gKvIZOdMgZbSRVg?pwd=fete) fetch code: fete]
+The proposed UVT20K dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1LCEvXR3gKvIZOdMgZbSRVg?pwd=fete) fetch code: fete]
+
+The compressed UVT20K dataset containing the annotations of saliency maps, edges, scribbles, and challenge attributes can be found here. [[baidu pan](https://pan.baidu.com/s/1F_5yzM72ms53M-qzJBJX0w?pwd=wnpc) fetch code: wnpc]
 
 ## Method
 
@@ -28,6 +30,8 @@ If you think our work is helpful, please cite:
   author={Wang, Kunpeng and Chen, Keke and Li, Chenglong and Tu, Zhengzheng and Luo, Bin},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={39},
+  number={7},
+  pages={7780--7788},
   year={2025}
 }
 ```
