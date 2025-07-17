@@ -3,7 +3,7 @@ Code and dataset repository for our paper entilted "Alignment-Free RGB-T Salient
 
 arXiv version: https://arxiv.org/pdf/2412.14576.
 
-***The model and results will be organized as soon as possible.***
+***The model and results are available now. [17th, Jul, 2025]***
 
 Thank you for your attention. 
 
