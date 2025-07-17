@@ -27,7 +27,7 @@ The predicted results of our models can be found here. [[baidu pan](https://pan.
 
 The parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1BXj-a3QvCF7iKahuUz-04A?pwd=bz6x) fetch code: bz6x]
 
-The predicted results of the comparison method can be found here. [[baidu pan](https://pan.baidu.com/s/1YwN0HHOFMTWd7OW83otWXg?pwd=3kru) fetch code: 3kru]
+The predicted results of the comparison methods can be found here. [[baidu pan](https://pan.baidu.com/s/1YwN0HHOFMTWd7OW83otWXg?pwd=3kru) fetch code: 3kru]
 
 
 ## Citation
