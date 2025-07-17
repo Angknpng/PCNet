@@ -21,6 +21,15 @@ The compressed UVT20K dataset containing the annotations of saliency maps, edges
 [![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/method.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/method.png)
 
 
+## Results
+
+The predicted results of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1eZCp7jRSOxb2RRer3dIYgA?pwd=nhau) fetch code: nhau]
+
+The parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1BXj-a3QvCF7iKahuUz-04A?pwd=bz6x) fetch code: bz6x]
+
+The predicted results of the comparison method can be found here. [[baidu pan](https://pan.baidu.com/s/1YwN0HHOFMTWd7OW83otWXg?pwd=3kru) fetch code: 3kru]
+
+
 ## Citation
 If you think our work is helpful, please cite:
 
