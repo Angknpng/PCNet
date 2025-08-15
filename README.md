@@ -29,6 +29,31 @@ The parameters of our models can be found here. [[baidu pan](https://pan.baidu.c
 
 The predicted results of the comparison methods can be found here. [[baidu pan](https://pan.baidu.com/s/1YwN0HHOFMTWd7OW83otWXg?pwd=3kru) fetch code: 3kru]
 
+## Usage
+
+### Requirement
+
+0. Download the UVT20K dataset for training and testing.
+1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/14xGtKVSs53zRNZVKK-x4HA?pwd=mad3) fetch code: mad3]
+2. Download the pretrained parameters of the IHN model from [here](https://github.com/imdumpl78/IHN).
+3. Organize dataset and pretrained model directories.
+4. Create directories for the experiment and parameter files.
+5. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
+6. Install other packages: `pip install -r requirements.txt`.
+7. Set your path of all datasets in `./options.py`.
+
+### Train
+
+```
+python -m torch.distributed.launch --nproc_per_node=2 --master_port=2212 train_parallel.py
+```
+
+### Test
+
+```
+python test_produce_maps.py
+```
+
 
 ## Citation
 If you think our work is helpful, please cite:
