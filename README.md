@@ -23,18 +23,18 @@ The compressed UVT20K dataset containing the annotations of saliency maps, edges
 
 ## Results
 
-The predicted results of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1eZCp7jRSOxb2RRer3dIYgA?pwd=nhau) fetch code: nhau]
+The predicted results of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1YrpRoF6M6pt_HUOemhrofg?pwd=eekm) fetch code: eekm]
 
-The parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1BXj-a3QvCF7iKahuUz-04A?pwd=bz6x) fetch code: bz6x]
+The parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/13iUOoKOjr4PZnJ34WSrymA?pwd=gvvw) fetch code: gvvw]
 
-The predicted results of the comparison methods can be found here. [[baidu pan](https://pan.baidu.com/s/1YwN0HHOFMTWd7OW83otWXg?pwd=3kru) fetch code: 3kru]
+The predicted results of the comparison methods can be found here. [[baidu pan](https://pan.baidu.com/s/1usGwv7SLuS7T7dKPCUwbFg?pwd=6qqn) fetch code: 6qqn]
 
 ## Usage
 
 ### Requirement
 
 0. Download the UVT20K dataset for training and testing.
-1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/14xGtKVSs53zRNZVKK-x4HA?pwd=mad3) fetch code: mad3]
+1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/1sBuu7Qw9n8aWRydQsDieBA?pwd=3ifw) fetch code: 3ifw]
 2. Download the pretrained parameters of the IHN model from [here](https://github.com/imdumpl78/IHN).
 3. Organize dataset and pretrained model directories.
 4. Create directories for the experiment and parameter files.
