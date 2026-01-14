@@ -1,46 +1,64 @@
 # PCNet
-Code and dataset repository for our paper entilted "Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network" accepted at AAAI 2025.
+Code and dataset repository for our AAAI 2025 paper: **"Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network"**.
 
-arXiv version: https://arxiv.org/pdf/2412.14576.
+📄 arXiv: https://arxiv.org/pdf/2412.14576
 
 ***The model and results are available now. [17th, Jul, 2025]***
 
-Thank you for your attention. 
+Thank you for your attention.
 
+---
+
+✨ **Update (2026-01): Google Drive links added (recommended for international users).**  
+- 📦 **Dataset (UVT20K compressed):** 👉 [[Google Drive](https://drive.google.com/file/d/1u6FFnaoaJrmGyjtPD6FyI500uKDlZ6nh/view?usp=sharing)]  
+- 📌 **Results & checkpoints (full mirror):** 👉 [[Google Drive](https://drive.google.com/drive/folders/1C_3PdWbeG1vX6QLxwOY-KZcN960sxkvY?usp=sharing)]
+
+---
 
 ## Dataset
 
 [![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/dataset.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/dataset.png)
 
+The compressed **UVT20K** dataset contains annotations of **saliency maps, edges, scribbles**, and **challenge attributes**.  
+Download here:
+- 📦 [[Baidu Pan](https://pan.baidu.com/s/1CBLCup7VzU2-O2U8Aqw8oQ?pwd=v2rc)] (code: `v2rc`)
+- 🌍 [[Google Drive](https://drive.google.com/file/d/1u6FFnaoaJrmGyjtPD6FyI500uKDlZ6nh/view?usp=sharing)] (recommended)
+
 <!-- The proposed UVT20K dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1LCEvXR3gKvIZOdMgZbSRVg?pwd=fete) fetch code: fete] -->
 
-The compressed UVT20K dataset containing the annotations of saliency maps, edges, scribbles, and challenge attributes can be found here. [[baidu pan](https://pan.baidu.com/s/1CBLCup7VzU2-O2U8Aqw8oQ?pwd=v2rc) fetch code: v2rc] or [[google drive](https://drive.google.com/file/d/1u6FFnaoaJrmGyjtPD6FyI500uKDlZ6nh/view?usp=sharing)]
+---
 
 ## Method
 
 [![avatar](https://github.com/Angknpng/PCNet/raw/main/Fig/method.png)](https://github.com/Angknpng/PCNet/blob/main/Fig/method.png)
 
+---
 
 ## Results
 
-The predicted results of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1YrpRoF6M6pt_HUOemhrofg?pwd=eekm) fetch code: eekm]
+✨ **Google Drive mirror (recommended for international users):**  
+All released results/checkpoints (same content as the Baidu Pan links below):  
+👉 [[Google Drive](https://drive.google.com/drive/folders/1C_3PdWbeG1vX6QLxwOY-KZcN960sxkvY?usp=sharing)]
 
-The parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/13iUOoKOjr4PZnJ34WSrymA?pwd=gvvw) fetch code: gvvw]
+- 📌 **Predicted results (ours):** [[Baidu Pan](https://pan.baidu.com/s/1YrpRoF6M6pt_HUOemhrofg?pwd=eekm)] (code: `eekm`)
+- 🧩 **Model checkpoints:** [[Baidu Pan](https://pan.baidu.com/s/13iUOoKOjr4PZnJ34WSrymA?pwd=gvvw)] (code: `gvvw`)
+- 📊 **Predicted results (compared methods):** [[Baidu Pan](https://pan.baidu.com/s/1usGwv7SLuS7T7dKPCUwbFg?pwd=6qqn)] (code: `6qqn`)
 
-The predicted results of the comparison methods can be found here. [[baidu pan](https://pan.baidu.com/s/1usGwv7SLuS7T7dKPCUwbFg?pwd=6qqn) fetch code: 6qqn]
+---
 
 ## Usage
 
-### Requirement
+### Requirements
 
-0. Download the UVT20K dataset for training and testing.
-1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/1sBuu7Qw9n8aWRydQsDieBA?pwd=3ifw) fetch code: 3ifw]
-2. Download the pretrained parameters of the IHN model from [here](https://github.com/imdumpl78/IHN).
-3. Organize dataset and pretrained model directories.
-4. Create directories for the experiment and parameter files.
-5. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
-6. Install other packages: `pip install -r requirements.txt`.
-7. Set your path of all datasets in `./options.py`.
+0. 📦 Download **UVT20K** for training and testing (see **Dataset** section above).
+1. 🧠 Download the pretrained backbone parameters:  
+   - 📦 [[Baidu Pan](https://pan.baidu.com/s/1sBuu7Qw9n8aWRydQsDieBA?pwd=3ifw)] (code: `3ifw`)
+2. 🧩 Download the pretrained parameters of **IHN** from: [[IHN](https://github.com/imdumpl78/IHN)].
+3. 📁 Organize dataset and pretrained model directories.
+4. 🗂️ Create directories for experiments and checkpoints.
+5. 🧪 Install PyTorch via `conda`: `torch==1.12.0`, `torchvision==0.13.0`.
+6. 📦 Install other packages: `pip install -r requirements.txt`.
+7. 🔧 Set dataset paths in `./options.py`.
 
 ### Train
 
@@ -73,11 +91,11 @@ If you think our work is helpful, please cite:
 
 ## Acknowledgement
 
-The implement of this project is based on the following link.
+This project is based on the following resources:
 
 - [Multi-modal homography estimator](https://github.com/imdumpl78/IHN)
 - [SOD Literature Tracking](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
 
 ## Contact
 
-If you have any questions, please contact us (kp.wang@foxmail.com).
+📮 For questions or feedback, feel free to email: kp.wang@foxmail.com
