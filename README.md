@@ -14,7 +14,7 @@ Thank you for your attention.
 
 <!-- The proposed UVT20K dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1LCEvXR3gKvIZOdMgZbSRVg?pwd=fete) fetch code: fete] -->
 
-The compressed UVT20K dataset containing the annotations of saliency maps, edges, scribbles, and challenge attributes can be found here. [[baidu pan](https://pan.baidu.com/s/1CBLCup7VzU2-O2U8Aqw8oQ?pwd=v2rc) fetch code: v2rc] or [[google drive](https://drive.google.com/file/d/1vHGtAjWO_KQdaOSxWwQXIOCkSyAu8h2s/view?usp=sharing)]
+The compressed UVT20K dataset containing the annotations of saliency maps, edges, scribbles, and challenge attributes can be found here. [[baidu pan](https://pan.baidu.com/s/1CBLCup7VzU2-O2U8Aqw8oQ?pwd=v2rc) fetch code: v2rc] or [[google drive](https://drive.google.com/file/d/1u6FFnaoaJrmGyjtPD6FyI500uKDlZ6nh/view?usp=sharing)]
 
 ## Method
 
