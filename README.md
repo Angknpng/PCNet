@@ -43,6 +43,7 @@ All released results/checkpoints (same content as the Baidu Pan links below):
 - 📌 **Predicted results (ours):** [[Baidu Pan](https://pan.baidu.com/s/1YrpRoF6M6pt_HUOemhrofg?pwd=eekm)] (code: `eekm`)
 - 🧩 **Model checkpoints:** [[Baidu Pan](https://pan.baidu.com/s/13iUOoKOjr4PZnJ34WSrymA?pwd=gvvw)] (code: `gvvw`)
 - 📊 **Predicted results (compared methods):** [[Baidu Pan](https://pan.baidu.com/s/1usGwv7SLuS7T7dKPCUwbFg?pwd=6qqn)] (code: `6qqn`)
+- 🧩 **Pretreined IHN:** [Baidu Pan](https://pan.baidu.com/s/1nVWO-wsssUWu7dAIELaZbA?pwd=j2wp)(code: `j2wp`)
 
 ---
 
